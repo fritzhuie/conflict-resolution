@@ -1,2 +1,2 @@
-# conflict-resolution
+# conflict-reslution
 Practice merge conflicts
